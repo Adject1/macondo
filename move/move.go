@@ -8,7 +8,7 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 )
 
 // MoveType is a type of move; a play, an exchange, pass, etc.

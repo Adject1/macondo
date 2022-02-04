@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/domino14/macondo/cache"
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/cache"
+	"github.com/adject1/macondo/config"
 )
 
 var CacheKeyPrefix = "letterdist:"

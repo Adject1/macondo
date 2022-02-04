@@ -3,12 +3,12 @@ package runner
 import (
 	"math"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/gaddag"
-	"github.com/domino14/macondo/game"
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/gaddag"
+	"github.com/adject1/macondo/game"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
+	"github.com/adject1/macondo/move"
 	"github.com/rs/zerolog/log"
 	"lukechampine.com/frand"
 )

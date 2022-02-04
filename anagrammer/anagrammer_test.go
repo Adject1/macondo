@@ -8,12 +8,12 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/config"
 	"github.com/matryer/is"
 
-	"github.com/domino14/macondo/gaddag"
-	"github.com/domino14/macondo/gaddagmaker"
+	"github.com/adject1/macondo/gaddag"
+	"github.com/adject1/macondo/gaddagmaker"
 )
 
 var DefaultConfig = config.DefaultConfig()

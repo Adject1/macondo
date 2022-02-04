@@ -8,9 +8,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/gaddagmaker"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/gaddagmaker"
 )
 
 var LexiconDir = os.Getenv("LEXICON_PATH")

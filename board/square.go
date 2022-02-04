@@ -6,7 +6,7 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 )
 
 var (

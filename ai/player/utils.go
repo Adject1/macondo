@@ -1,9 +1,9 @@
 package player
 
 import (
-	"github.com/domino14/macondo/game"
-	"github.com/domino14/macondo/move"
-	"github.com/domino14/macondo/movegen"
+	"github.com/adject1/macondo/game"
+	"github.com/adject1/macondo/move"
+	"github.com/adject1/macondo/movegen"
 )
 
 // GenBestStaticTurn is a useful utility function for sims and autoplaying.

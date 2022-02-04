@@ -10,10 +10,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/domino14/macondo/cache"
+	"github.com/adject1/macondo/cache"
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 )
 
 const (

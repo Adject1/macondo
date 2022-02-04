@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/config"
 	"github.com/matryer/is"
 )
 

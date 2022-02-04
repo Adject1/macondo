@@ -7,11 +7,11 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/gaddagmaker"
-	"github.com/domino14/macondo/game"
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/gaddagmaker"
+	"github.com/adject1/macondo/game"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 )
 
 var DefaultConfig = config.DefaultConfig()

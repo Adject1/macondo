@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/config"
 )
 
 func LeaveCacheLoadFunc(cfg *config.Config, key string) (interface{}, error) {

@@ -5,15 +5,15 @@ import (
 	"os"
 	"os/signal"
 	"path/filepath"
+	"strings"
 	"syscall"
 	"time"
-	"strings"
 
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/shell"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/shell"
 )
 
 const (

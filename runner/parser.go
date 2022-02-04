@@ -3,10 +3,11 @@ package runner
 import (
 	"errors"
 	"fmt"
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
-	"github.com/domino14/macondo/move"
 	"strings"
 	"unicode"
+
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
+	"github.com/adject1/macondo/move"
 )
 
 func ParseChallengeRule(rule string) (pb.ChallengeRule, error) {

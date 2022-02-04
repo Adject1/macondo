@@ -2,7 +2,7 @@ package board
 
 // This file contains some sample filled boards, used solely for testing.
 
-import "github.com/domino14/macondo/alphabet"
+import "github.com/adject1/macondo/alphabet"
 
 // VsWho is a string representation of a board.
 type VsWho string

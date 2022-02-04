@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 )
 
 // zero value works. not threadsafe.

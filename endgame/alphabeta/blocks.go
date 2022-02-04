@@ -3,10 +3,10 @@ package alphabeta
 import (
 	"fmt"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/move"
 )
 
 type rect struct {

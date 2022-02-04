@@ -7,14 +7,14 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/cross_set"
-	"github.com/domino14/macondo/gaddag"
-	"github.com/domino14/macondo/gaddagmaker"
-	"github.com/domino14/macondo/movegen"
-	"github.com/domino14/macondo/strategy"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/cross_set"
+	"github.com/adject1/macondo/gaddag"
+	"github.com/adject1/macondo/gaddagmaker"
+	"github.com/adject1/macondo/movegen"
+	"github.com/adject1/macondo/strategy"
 	"github.com/stretchr/testify/assert"
 )
 

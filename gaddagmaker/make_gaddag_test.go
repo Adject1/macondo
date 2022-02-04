@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 )
 
 func TestGenAlphabet(t *testing.T) {

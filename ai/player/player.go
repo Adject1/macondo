@@ -5,12 +5,12 @@ package player
 import (
 	"sort"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/move"
-	"github.com/domino14/macondo/strategy"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/move"
+	"github.com/adject1/macondo/strategy"
 
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 )
 
 const (

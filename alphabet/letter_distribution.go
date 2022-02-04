@@ -5,7 +5,7 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/config"
 )
 
 // LetterDistribution encodes the tile distribution for the relevant game.

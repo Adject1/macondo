@@ -7,14 +7,14 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/move"
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/gaddagmaker"
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/gaddagmaker"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 	"github.com/matryer/is"
 )
 

@@ -3,10 +3,10 @@ package game
 import (
 	"errors"
 
-	"github.com/domino14/macondo/alphabet"
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
-	"github.com/domino14/macondo/lexicon"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
+	"github.com/adject1/macondo/lexicon"
+	"github.com/adject1/macondo/move"
 	"github.com/rs/zerolog/log"
 )
 

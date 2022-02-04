@@ -5,11 +5,11 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/cache"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/cache"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/move"
 )
 
 type Leaves interface {

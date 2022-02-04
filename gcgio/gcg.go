@@ -11,16 +11,16 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/cache"
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/cache"
+	"github.com/adject1/macondo/config"
 
-	"github.com/domino14/macondo/game"
+	"github.com/adject1/macondo/game"
 
 	"golang.org/x/text/encoding/charmap"
 	"golang.org/x/text/transform"
 
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 	"github.com/rs/zerolog/log"
 )
 

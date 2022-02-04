@@ -8,8 +8,8 @@ import (
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/analyzer"
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/analyzer"
+	"github.com/adject1/macondo/config"
 )
 
 func main() {

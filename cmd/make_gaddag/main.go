@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/domino14/macondo/gaddagmaker"
+	"github.com/adject1/macondo/gaddagmaker"
 )
 
 func main() {

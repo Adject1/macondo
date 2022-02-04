@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/domino14/macondo/cache"
+	"github.com/adject1/macondo/cache"
 	"github.com/rs/zerolog/log"
 )
 

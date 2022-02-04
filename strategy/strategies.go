@@ -1,9 +1,9 @@
 package strategy
 
 import (
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/move"
 )
 
 // Strategizer is in charge of picking plays using strategy.

@@ -9,18 +9,18 @@ import (
 	"github.com/matryer/is"
 	"github.com/rs/zerolog"
 
-	airunner "github.com/domino14/macondo/ai/runner"
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/cross_set"
-	"github.com/domino14/macondo/gaddag"
-	"github.com/domino14/macondo/gaddagmaker"
-	"github.com/domino14/macondo/game"
-	"github.com/domino14/macondo/gcgio"
-	"github.com/domino14/macondo/movegen"
+	airunner "github.com/adject1/macondo/ai/runner"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/cross_set"
+	"github.com/adject1/macondo/gaddag"
+	"github.com/adject1/macondo/gaddagmaker"
+	"github.com/adject1/macondo/game"
+	"github.com/adject1/macondo/gcgio"
+	"github.com/adject1/macondo/movegen"
 
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 )
 
 var DefaultConfig = config.DefaultConfig()

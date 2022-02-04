@@ -5,8 +5,8 @@ import (
 
 	"github.com/matryer/is"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/move"
 )
 
 func BenchmarkBoardTranspose(b *testing.B) {

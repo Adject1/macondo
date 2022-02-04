@@ -1,9 +1,9 @@
 package endgame
 
 import (
-	"github.com/domino14/macondo/game"
-	"github.com/domino14/macondo/move"
-	"github.com/domino14/macondo/movegen"
+	"github.com/adject1/macondo/game"
+	"github.com/adject1/macondo/move"
+	"github.com/adject1/macondo/movegen"
 )
 
 // Solver is an interface for an endgame solver. The scores don't matter, the

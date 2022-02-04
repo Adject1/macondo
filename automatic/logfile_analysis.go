@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/domino14/macondo/cache"
-	"github.com/domino14/macondo/montecarlo"
+	"github.com/adject1/macondo/cache"
+	"github.com/adject1/macondo/montecarlo"
 )
 
 // AnalyzeLogFile analyzes the given game CSV file and spits out a bunch of

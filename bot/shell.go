@@ -13,11 +13,11 @@ import (
 	"github.com/nats-io/nats.go"
 	"github.com/rs/zerolog/log"
 
-	airunner "github.com/domino14/macondo/ai/runner"
-	"github.com/domino14/macondo/config"
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
-	"github.com/domino14/macondo/move"
-	"github.com/domino14/macondo/runner"
+	airunner "github.com/adject1/macondo/ai/runner"
+	"github.com/adject1/macondo/config"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
+	"github.com/adject1/macondo/move"
+	"github.com/adject1/macondo/runner"
 )
 
 const (

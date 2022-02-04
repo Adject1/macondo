@@ -6,7 +6,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 )
 
 type NewLeaves struct {

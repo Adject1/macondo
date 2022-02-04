@@ -5,8 +5,8 @@ import (
 	"syscall/js"
 	"unsafe"
 
-	"github.com/domino14/macondo/analyzer"
-	"github.com/domino14/macondo/cache"
+	"github.com/adject1/macondo/analyzer"
+	"github.com/adject1/macondo/cache"
 )
 
 func precache(this js.Value, args []js.Value) interface{} {

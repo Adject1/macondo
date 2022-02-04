@@ -6,10 +6,10 @@ import (
 
 	"github.com/matryer/is"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/cross_set"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/cross_set"
+	"github.com/adject1/macondo/move"
 )
 
 func TestGenBestStaticTurn(t *testing.T) {

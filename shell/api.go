@@ -9,12 +9,12 @@ import (
 
 	"github.com/rs/zerolog/log"
 
-	airunner "github.com/domino14/macondo/ai/runner"
-	"github.com/domino14/macondo/automatic"
-	"github.com/domino14/macondo/endgame/alphabeta"
-	"github.com/domino14/macondo/game"
-	"github.com/domino14/macondo/gcgio"
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	airunner "github.com/adject1/macondo/ai/runner"
+	"github.com/adject1/macondo/automatic"
+	"github.com/adject1/macondo/endgame/alphabeta"
+	"github.com/adject1/macondo/game"
+	"github.com/adject1/macondo/gcgio"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 )
 
 type Response struct {

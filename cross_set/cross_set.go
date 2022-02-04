@@ -3,11 +3,11 @@ package cross_set
 import (
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/gaddag"
-	"github.com/domino14/macondo/gaddagmaker"
-	"github.com/domino14/macondo/move"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/gaddag"
+	"github.com/adject1/macondo/gaddagmaker"
+	"github.com/adject1/macondo/move"
 )
 
 type CrossSet = board.CrossSet

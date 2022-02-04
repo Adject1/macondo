@@ -3,10 +3,10 @@ package game
 import (
 	"strings"
 
-	"github.com/domino14/macondo/board"
+	"github.com/adject1/macondo/board"
 	"github.com/rs/zerolog/log"
 
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 )
 
 // HistoryToVariant takes in a game history and returns the board configuration

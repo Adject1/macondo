@@ -7,19 +7,19 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/domino14/macondo/ai/player"
-	airunner "github.com/domino14/macondo/ai/runner"
-	"github.com/domino14/macondo/alphabet"
-	"github.com/domino14/macondo/board"
-	"github.com/domino14/macondo/config"
-	"github.com/domino14/macondo/gaddag"
-	"github.com/domino14/macondo/game"
-	"github.com/domino14/macondo/move"
-	"github.com/domino14/macondo/movegen"
-	"github.com/domino14/macondo/strategy"
+	"github.com/adject1/macondo/ai/player"
+	airunner "github.com/adject1/macondo/ai/runner"
+	"github.com/adject1/macondo/alphabet"
+	"github.com/adject1/macondo/board"
+	"github.com/adject1/macondo/config"
+	"github.com/adject1/macondo/gaddag"
+	"github.com/adject1/macondo/game"
+	"github.com/adject1/macondo/move"
+	"github.com/adject1/macondo/movegen"
+	"github.com/adject1/macondo/strategy"
 	"github.com/rs/zerolog/log"
 
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
 )
 
 const (

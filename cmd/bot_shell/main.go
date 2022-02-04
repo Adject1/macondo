@@ -11,8 +11,8 @@ import (
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 
-	"github.com/domino14/macondo/bot"
-	"github.com/domino14/macondo/config"
+	"github.com/adject1/macondo/bot"
+	"github.com/adject1/macondo/config"
 )
 
 const (

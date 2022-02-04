@@ -4,7 +4,7 @@ package gaddag
 import (
 	"strings"
 
-	"github.com/domino14/macondo/alphabet"
+	"github.com/adject1/macondo/alphabet"
 	"github.com/rs/zerolog/log"
 )
 

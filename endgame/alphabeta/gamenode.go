@@ -3,8 +3,8 @@ package alphabeta
 import (
 	"fmt"
 
-	pb "github.com/domino14/macondo/gen/api/proto/macondo"
-	"github.com/domino14/macondo/move"
+	pb "github.com/adject1/macondo/gen/api/proto/macondo"
+	"github.com/adject1/macondo/move"
 )
 
 const PerTurnPenalty = float32(0.001)
